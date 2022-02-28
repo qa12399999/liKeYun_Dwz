@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>liKeYun短链接生成开源程序2.0 - https://segmentfault.com/u/tanking</title>
+	<title>liKeYun短链接生成开源程序2.0</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<link rel="stylesheet" href="../css/bootstrap.min.css">
